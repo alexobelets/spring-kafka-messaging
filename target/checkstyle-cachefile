@@ -1,8 +1,0 @@
-#Sun Jul 06 19:37:53 WEST 2025
-configuration*?=38870D6E2FAB1DA77478F9974C70CD10C80923B1
-module-resource*?\:checkstyle-xpath-suppressions.xml=45D9D0E4410C07190015EE09F3EE9554843D6C56
-C\:\\Users\\alex\\Desktop\\test1\\kafka-mock-springboot\\src\\main\\resources\\application.properties=1751813404000
-module-resource*?\:checkstyle-suppressions.xml=9DDA1CD4529B63A4BC1CC51883AB227C194236F7
-C\:\\Users\\alex\\Desktop\\test1\\kafka-mock-springboot\\src\\test\\resources\\application-test.properties=1751817244000
-C\:\\Users\\alex\\Desktop\\test1\\kafka-mock-springboot\\src\\main\\java\\com\\example\\kafka\\model\\Message.java=1751819433714
-C\:\\Users\\alex\\Desktop\\test1\\kafka-mock-springboot\\src\\main\\java\\com\\example\\kafka\\Application.java=1751816902000

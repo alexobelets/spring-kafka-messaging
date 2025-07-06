@@ -1,8 +1,0 @@
-rgAA60JgxdcRzrg+9PL6ErI/F3vY9SeHaUOF9XzCvKM=
-src\main\java\com\example\kafka\Application.java 2025-07-06T18:38:22.074159900Z
-src\main\java\com\example\kafka\config\KafkaConfig.java 2025-07-06T18:38:22.145225600Z
-src\main\java\com\example\kafka\model\Message.java 2025-07-06T18:38:22.165249400Z
-src\main\java\com\example\kafka\service\KafkaConsumerService.java 2025-07-06T18:38:22.220029600Z
-src\main\java\com\example\kafka\service\KafkaForwardingService.java 2025-07-06T18:38:22.258980300Z
-src\main\java\com\example\kafka\service\KafkaProducerService.java 2025-07-06T18:38:22.283012600Z
-src\test\java\com\example\kafka\KafkaIntegrationTest.java 2025-07-06T18:38:22.318204500Z

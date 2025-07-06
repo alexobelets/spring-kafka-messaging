@@ -1,7 +1,0 @@
-com\example\kafka\service\KafkaForwardingService.class
-com\example\kafka\service\KafkaProducerService.class
-com\example\kafka\service\KafkaConsumerService.class
-com\example\kafka\model\Message.class
-com\example\kafka\Application.class
-com\example\kafka\model\Message$MessageBuilder.class
-com\example\kafka\config\KafkaConfig.class
